@@ -1,0 +1,16 @@
+number of days = 30
+population = 10000
+pois = 1000
+weather = 1
+policy = 2
+distance = 1000
+initial infected = 0.1
+initial vaccinated = 0.6
+
+dweather = 1
+
+protection bound = 0.5
+resistance bound = 0.2
+
+h/p = 0.05
+death_risk = 0.000005
